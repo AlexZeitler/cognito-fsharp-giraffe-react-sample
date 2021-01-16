@@ -1,0 +1,8 @@
+{
+  "userpoolName": "sample-user-pool",
+  "scopeName": "api",
+  "resourceServerName": "giraffe-server",
+  "resourceServerIdentifier": "giraffe-server",
+  "clientName": "react-client",
+  "domainPrefix": "giraffe-sample"
+}
