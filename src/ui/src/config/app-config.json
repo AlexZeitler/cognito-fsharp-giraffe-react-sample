@@ -1,0 +1,15 @@
+{
+    "region": "eu-central-1",
+    "userPool": "eu-central-1_rypunXn4M",
+    "userPoolBaseUri": "https://giraffe-sample.auth.eu-central-1.amazoncognito.com",
+    "clientId": "3ot29hu8k3cbikij2jat97sqou",
+    "callbackUri": "http://localhost:3000/callback",
+    "signoutUri": "http://localhost:3000",
+    "tokenScopes": [
+        "openid",
+        "email",
+        "profile",
+        "giraffe-server/api"                
+    ],
+    "apiUri": "https://localhost:5001"
+}
