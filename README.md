@@ -1,6 +1,6 @@
 # AWS Cognito (via CDK) F# Giraffe React PKCE flow sample
 
-This sample shows how to use [AWS Cognito]() (deployed via AWS CDK) together with an F# [Giraffe]() API and a React application with  Authorization Code Grant (PKCE). 
+This sample shows how to use [AWS Cognito](https://aws.amazon.com/cognito/) (deployed via [AWS CDK](https://aws.amazon.com/cdk/)) together with an F# [Giraffe](https://github.com/giraffe-fsharp/Giraffe) API and a React application with  Authorization Code Grant (PKCE).
 
 ## Setup
 
