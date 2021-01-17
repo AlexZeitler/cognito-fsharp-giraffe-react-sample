@@ -56,6 +56,15 @@ CognitoStack.userpoolId = eu-central-1_rypunXn4M
 
 Make sure to grab the Information listed below "Outputs" - otherwise you'll have to lookup them in the AWS Cognito Console.
 
+#### Create a Cognito User
+
+- [Add a AWS Cognito User](https://docs.aws.amazon.com/cognito/latest/developerguide/how-to-create-user-accounts.html)
+
+Sample:
+
+![](./assets/img/create-user.png)
+
+
 ### Giraffe API
 
 #### Configure the Giraffe API
@@ -125,15 +134,7 @@ Your browser should show this:
 
 ![](./assets/img/ui-not-logged-in.png)
 
-### Create a Cognito User
-
-- [Add a AWS Cognito User](https://docs.aws.amazon.com/cognito/latest/developerguide/how-to-create-user-accounts.html)
-
-Sample:
-
-![](./assets/img/create-user.png)
-
-### Login
+#### Login
 
 Click the "Sign in" link in your UI:
 
